@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\bin\Debug\AssignmentP56.exe.config
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\bin\Debug\AssignmentP56.exe
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\bin\Debug\AssignmentP56.pdb
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\obj\Debug\AssignmentP56.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\obj\Debug\AssignmentP56.exe
+C:\Users\trmcg\source\repos\AssignmentP56\AssignmentP56\obj\Debug\AssignmentP56.pdb
