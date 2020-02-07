@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\bin\Debug\AssignmentP89.exe.config
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\bin\Debug\AssignmentP89.exe
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\bin\Debug\AssignmentP89.pdb
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\obj\Debug\AssignmentP89.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\obj\Debug\AssignmentP89.exe
+C:\Users\trmcg\source\repos\AssignmentP89\AssignmentP89\obj\Debug\AssignmentP89.pdb
