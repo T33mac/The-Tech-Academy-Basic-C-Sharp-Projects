@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\trmcg\source\repos\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
