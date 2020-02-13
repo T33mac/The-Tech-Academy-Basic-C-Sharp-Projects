@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\bin\Debug\WhileDoWhileAssmt.exe.config
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\bin\Debug\WhileDoWhileAssmt.exe
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\bin\Debug\WhileDoWhileAssmt.pdb
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\obj\Debug\WhileDoWhileAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\obj\Debug\WhileDoWhileAssmt.exe
+C:\Users\trmcg\source\repos\WhileDoWhileAssmt\WhileDoWhileAssmt\obj\Debug\WhileDoWhileAssmt.pdb
