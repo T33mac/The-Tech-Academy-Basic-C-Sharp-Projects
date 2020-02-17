@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\bin\Debug\StringBuildAssmt.exe.config
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\bin\Debug\StringBuildAssmt.exe
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\bin\Debug\StringBuildAssmt.pdb
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\obj\Debug\StringBuildAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\obj\Debug\StringBuildAssmt.exe
+C:\Users\trmcg\source\repos\StringBuildAssmt\StringBuildAssmt\obj\Debug\StringBuildAssmt.pdb
