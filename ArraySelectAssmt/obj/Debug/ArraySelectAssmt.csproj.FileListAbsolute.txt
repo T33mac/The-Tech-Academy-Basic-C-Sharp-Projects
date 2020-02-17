@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\bin\Debug\ArraySelectAssmt.exe.config
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\bin\Debug\ArraySelectAssmt.exe
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\bin\Debug\ArraySelectAssmt.pdb
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\obj\Debug\ArraySelectAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\obj\Debug\ArraySelectAssmt.exe
+C:\Users\trmcg\source\repos\ArraySelectAssmt\ArraySelectAssmt\obj\Debug\ArraySelectAssmt.pdb
