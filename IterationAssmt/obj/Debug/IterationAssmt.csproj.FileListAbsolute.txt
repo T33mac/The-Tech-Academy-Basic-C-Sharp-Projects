@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\bin\Debug\IterationAssmt.exe.config
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\bin\Debug\IterationAssmt.exe
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\bin\Debug\IterationAssmt.pdb
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\obj\Debug\IterationAssmt.exe
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\obj\Debug\IterationAssmt.pdb
+C:\Users\trmcg\source\repos\IterationAssmt\IterationAssmt\obj\Debug\IterationAssmt.csprojAssemblyReference.cache
