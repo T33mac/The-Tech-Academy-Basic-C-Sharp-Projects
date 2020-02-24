@@ -76,7 +76,7 @@ class Program
                     Console.WriteLine(i + " is in our database!");
                     Console.WriteLine(count);
                 }
-                if (count == 0)               
+                else             //if (count == 0)               
                 {
                     Console.WriteLine("Sorry " + parts + " is not in our database.");
                 }
