@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\bin\Debug\ExceptionHandlingAssmt.exe.config
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\bin\Debug\ExceptionHandlingAssmt.exe
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\bin\Debug\ExceptionHandlingAssmt.pdb
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\obj\Debug\ExceptionHandlingAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\obj\Debug\ExceptionHandlingAssmt.exe
+C:\Users\trmcg\source\repos\ExceptionHandlingAssmt\ExceptionHandlingAssmt\obj\Debug\ExceptionHandlingAssmt.pdb
