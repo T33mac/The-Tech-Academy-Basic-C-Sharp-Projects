@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\bin\Debug\ClassObjectAssmt.exe.config
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\bin\Debug\ClassObjectAssmt.exe
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\bin\Debug\ClassObjectAssmt.pdb
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\obj\Debug\ClassObjectAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\obj\Debug\ClassObjectAssmt.exe
+C:\Users\trmcg\source\repos\ClassObjectAssmt\ClassObjectAssmt\obj\Debug\ClassObjectAssmt.pdb
