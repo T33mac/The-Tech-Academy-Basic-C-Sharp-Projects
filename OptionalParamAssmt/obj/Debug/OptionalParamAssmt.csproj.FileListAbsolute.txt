@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\bin\Debug\OptionalParamAssmt.exe.config
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\bin\Debug\OptionalParamAssmt.exe
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\bin\Debug\OptionalParamAssmt.pdb
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\obj\Debug\OptionalParamAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\obj\Debug\OptionalParamAssmt.exe
+C:\Users\trmcg\source\repos\OptionalParamAssmt\OptionalParamAssmt\obj\Debug\OptionalParamAssmt.pdb
