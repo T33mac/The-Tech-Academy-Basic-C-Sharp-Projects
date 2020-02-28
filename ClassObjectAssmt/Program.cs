@@ -8,24 +8,17 @@ namespace ClassObjectAssmt
 {
     public class Program
     {
-        
-
         static void Main(string[] args)
         {
             Calculations calc = new Calculations();
             Console.WriteLine("Please enter a whole number in decimal form: ");
-            string num1 = Console.ReadLine();
-            int line1 = calc.ans1;
-            int line2 = calc.ans2;
-            int line3 = calc.ans3;
-            Console.WriteLine("Your number divided by five is: " + line1 + "\n\nYour number added to 13 is: " + line2 + 
-                "\n\nYour number doubled is: " + line3);
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            int ans1 = calc.Calculate1(num1);  //Parameter must be passed
+            int ans2 = calc.Calculate2(num1);
+            int ans3 = calc.Calculate3(num1);
+            Console.WriteLine("Your number added to 13 is: " + ans1 + "\n\nYour number multiplied by two is: " + ans2 + "\n\n Your number divided by two is: " + ans3);
             Console.ReadLine();
         }
-        public Program(string num1)
-        {
-            string nummy = num1;
-        }
-        public string nummy { get; set; }
     }
 }
