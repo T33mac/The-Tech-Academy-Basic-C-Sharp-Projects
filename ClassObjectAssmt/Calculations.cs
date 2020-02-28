@@ -8,16 +8,20 @@ namespace ClassObjectAssmt
 {
     public class Calculations
     {
-        public Calculations()
+        public int Calculate1(int num1)
         {
-            Program Val = new Program();
-            int newNum = Convert.ToInt32(Val.nummy);
-            int ans1 = newNum / 5;
-            int ans2 = newNum + 13;
-            int ans3 = newNum * 2;
+            int math1 = num1 + 13;
+            return math1;
         }
-        public int ans1 { get; set; }
-        public int ans2 { get; set; }
-        public int ans3 { get; set; }
+        public int Calculate2(int num1)
+        {
+            int math2 = num1 * 2;
+            return math2;
+        }
+        public int Calculate3(int num1)
+        {
+            int math3 = num1 / 2;
+            return math3;
+        }
     }
 }
