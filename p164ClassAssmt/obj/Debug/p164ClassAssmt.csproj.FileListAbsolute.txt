@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\bin\Debug\p164ClassAssmt.exe.config
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\bin\Debug\p164ClassAssmt.exe
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\bin\Debug\p164ClassAssmt.pdb
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\obj\Debug\p164ClassAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\obj\Debug\p164ClassAssmt.exe
+C:\Users\trmcg\source\repos\p164ClassAssmt\p164ClassAssmt\obj\Debug\p164ClassAssmt.pdb
