@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\bin\Debug\SuperClassAssmt.exe.config
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\bin\Debug\SuperClassAssmt.exe
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\bin\Debug\SuperClassAssmt.pdb
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\obj\Debug\SuperClassAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\obj\Debug\SuperClassAssmt.exe
+C:\Users\trmcg\source\repos\SuperClassAssmt\SuperClassAssmt\obj\Debug\SuperClassAssmt.pdb
