@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\bin\Debug\AbstractClassAssmt.exe.config
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\bin\Debug\AbstractClassAssmt.exe
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\bin\Debug\AbstractClassAssmt.pdb
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\obj\Debug\AbstractClassAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\obj\Debug\AbstractClassAssmt.exe
+C:\Users\trmcg\source\repos\AbstractClassAssmt\AbstractClassAssmt\obj\Debug\AbstractClassAssmt.pdb
