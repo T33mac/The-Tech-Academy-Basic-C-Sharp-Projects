@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\bin\Debug\IQuitAssmt.exe.config
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\bin\Debug\IQuitAssmt.exe
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\bin\Debug\IQuitAssmt.pdb
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\obj\Debug\IQuitAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\obj\Debug\IQuitAssmt.exe
+C:\Users\trmcg\source\repos\IQuitAssmt\IQuitAssmt\obj\Debug\IQuitAssmt.pdb
