@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\bin\Debug\EnumAssmt.exe.config
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\bin\Debug\EnumAssmt.exe
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\bin\Debug\EnumAssmt.pdb
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\obj\Debug\EnumAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\obj\Debug\EnumAssmt.exe
+C:\Users\trmcg\source\repos\EnumAssmt\EnumAssmt\obj\Debug\EnumAssmt.pdb
