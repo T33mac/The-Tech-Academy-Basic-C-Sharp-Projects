@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\bin\Debug\GenericClsAssmt.exe.config
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\bin\Debug\GenericClsAssmt.exe
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\bin\Debug\GenericClsAssmt.pdb
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\obj\Debug\GenericClsAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\obj\Debug\GenericClsAssmt.exe
+C:\Users\trmcg\source\repos\GenericClsAssmt\GenericClsAssmt\obj\Debug\GenericClsAssmt.pdb
