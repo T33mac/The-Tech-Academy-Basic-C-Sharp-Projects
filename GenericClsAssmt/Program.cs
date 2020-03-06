@@ -13,13 +13,25 @@ namespace SuperClassAssmt
             Employee<string> emp = new Employee<string>();
             emp.Things = new List<string>();         //intantiates the new list from generic class
             emp.FirstName = "Jimmy";
-            emp.LastName = "Jammer";
+            emp.LastName = "Jammers";
             emp.Id = 12;           
             emp.Things.Add("stapler");
             emp.Things.Add("pants");
             emp.Things.Add("bird");
-            emp.SayName();
-            Console.WriteLine(emp.FirstName + " " + emp.LastName + " ID #" + emp.Id + " has a " + emp.Things[2] + " in his " + emp.Things[1] + " pocket.");
+
+            Employee<int> emp1 = new Employee<int>();
+            emp1.Things = new List<int>();         //intantiates the new list from generic class
+            emp1.FirstName = "Tommy";
+            emp1.LastName = "Toaster";
+            emp1.Id = 15;
+            emp1.Things.Add(12);
+            emp1.Things.Add(14);
+            emp1.Things.Add(51);
+
+            Console.WriteLine("\n" + emp.FirstName + " " + emp.LastName + " ID #" + emp.Id + " has a " + emp.Things[2] + 
+                " in his " + emp.Things[1] + " pocket.");
+            Console.WriteLine("\nNot to be outdone " + emp1.FirstName + " " + emp1.LastName + 
+                " ID #" + emp1.Id + " fit " + emp1.Things[1] + " in his " + emp.Things[1] + " pockets.");
             Console.Read();
         }
     }
