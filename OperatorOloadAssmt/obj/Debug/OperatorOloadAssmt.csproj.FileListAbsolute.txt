@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\bin\Debug\OperatorOloadAssmt.exe.config
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\bin\Debug\OperatorOloadAssmt.exe
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\bin\Debug\OperatorOloadAssmt.pdb
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\obj\Debug\OperatorOloadAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\obj\Debug\OperatorOloadAssmt.exe
+C:\Users\trmcg\source\repos\OperatorOloadAssmt\OperatorOloadAssmt\obj\Debug\OperatorOloadAssmt.pdb
