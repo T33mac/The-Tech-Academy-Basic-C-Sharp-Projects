@@ -8,7 +8,7 @@ namespace SuperClassAssmt
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<Employee> lstEmp = new List<Employee>();
             Employee emp = new Employee();
@@ -27,16 +27,27 @@ namespace SuperClassAssmt
             emp2.Id = 555;
             lstEmp.Add(emp2);
 
-            foreach (var emps in lstEmp)
-            {
-                Console.WriteLine(emps.FirstName + " " + emps.LastName + " #" + emps.Id);
-            }
 
             if (emp.Id == emp1.Id)
             {
-                Console.WriteLine(emp.Id + " appears more than once in this list!");
+                Console.WriteLine("Equal");
             }
+            else
+            {
+                Console.WriteLine("Not Equal");
+            }
+
+            Console.WriteLine(emp.Id == emp1.Id);
             Console.Read();
         }
+        public static bool operator ==(Employee x, Employee y)
+        {
+            return x.Id == y.Id;
+        }
+        public static bool operator !=(Employee x, Employee y)
+        {
+            return x.Id != y.Id;
+        }
+        
     }
 }

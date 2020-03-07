@@ -14,4 +14,5 @@ namespace SuperClassAssmt
         }
         public int Id { get; set; }
     }
+
 }
