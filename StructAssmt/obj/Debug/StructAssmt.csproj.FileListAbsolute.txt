@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\bin\Debug\StructAssmt.exe.config
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\bin\Debug\StructAssmt.exe
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\bin\Debug\StructAssmt.pdb
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\obj\Debug\StructAssmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\obj\Debug\StructAssmt.exe
+C:\Users\trmcg\source\repos\StructAssmt\StructAssmt\obj\Debug\StructAssmt.pdb
