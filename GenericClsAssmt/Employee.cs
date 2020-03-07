@@ -13,6 +13,6 @@ namespace SuperClassAssmt
             throw new NotImplementedException();
         }
         public int Id { get; set; }
-        public List<T> Things { get; set; }
+        public List<T> Things { get; set; }  //<T> can be string or int etc. Two instances in Program.cs
     }
 }
