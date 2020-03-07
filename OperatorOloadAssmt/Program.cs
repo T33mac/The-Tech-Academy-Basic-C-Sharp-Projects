@@ -27,26 +27,8 @@ namespace SuperClassAssmt
             emp2.Id = 555;
             lstEmp.Add(emp2);
 
-
-            if (emp.Id == emp1.Id)
-            {
-                Console.WriteLine("Equal");
-            }
-            else
-            {
-                Console.WriteLine("Not Equal");
-            }
-
-            Console.WriteLine(emp.Id == emp1.Id);
+            Console.WriteLine(emp==emp1);
             Console.Read();
-        }
-        public static bool operator ==(Employee x, Employee y)
-        {
-            return x.Id == y.Id;
-        }
-        public static bool operator !=(Employee x, Employee y)
-        {
-            return x.Id != y.Id;
         }
         
     }

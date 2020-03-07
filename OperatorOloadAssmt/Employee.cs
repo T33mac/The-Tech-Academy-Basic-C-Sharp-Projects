@@ -13,6 +13,14 @@ namespace SuperClassAssmt
             throw new NotImplementedException();
         }
         public int Id { get; set; }
+        public static bool operator ==(Employee emp, Employee emp1)
+        {
+            return emp.Id == emp1.Id;
+        }
+        public static bool operator !=(Employee emp, Employee emp1)
+        {
+            return emp.Id != emp1.Id;
+        }
     }
 
 }
