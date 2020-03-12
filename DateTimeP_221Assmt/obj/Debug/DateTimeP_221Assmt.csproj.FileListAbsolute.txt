@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\bin\Debug\DateTimeP_221Assmt.exe.config
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\bin\Debug\DateTimeP_221Assmt.exe
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\bin\Debug\DateTimeP_221Assmt.pdb
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\obj\Debug\DateTimeP_221Assmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\obj\Debug\DateTimeP_221Assmt.exe
+C:\Users\trmcg\source\repos\DateTimeP_221Assmt\DateTimeP_221Assmt\obj\Debug\DateTimeP_221Assmt.pdb
