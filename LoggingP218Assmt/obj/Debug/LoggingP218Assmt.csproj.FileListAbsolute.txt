@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\bin\Debug\LoggingP218Assmt.exe.config
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\bin\Debug\LoggingP218Assmt.exe
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\bin\Debug\LoggingP218Assmt.pdb
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\obj\Debug\LoggingP218Assmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\obj\Debug\LoggingP218Assmt.exe
+C:\Users\trmcg\source\repos\LoggingP218Assmt\LoggingP218Assmt\obj\Debug\LoggingP218Assmt.pdb
