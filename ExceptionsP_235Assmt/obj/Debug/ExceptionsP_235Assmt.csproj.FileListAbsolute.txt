@@ -1,0 +1,5 @@
+C:\Users\trmcg\source\repos\ExceptionsP_235Assmt\ExceptionsP_235Assmt\bin\Debug\ExceptionsP_235Assmt.exe.config
+C:\Users\trmcg\source\repos\ExceptionsP_235Assmt\ExceptionsP_235Assmt\bin\Debug\ExceptionsP_235Assmt.exe
+C:\Users\trmcg\source\repos\ExceptionsP_235Assmt\ExceptionsP_235Assmt\bin\Debug\ExceptionsP_235Assmt.pdb
+C:\Users\trmcg\source\repos\ExceptionsP_235Assmt\ExceptionsP_235Assmt\obj\Debug\ExceptionsP_235Assmt.exe
+C:\Users\trmcg\source\repos\ExceptionsP_235Assmt\ExceptionsP_235Assmt\obj\Debug\ExceptionsP_235Assmt.pdb
