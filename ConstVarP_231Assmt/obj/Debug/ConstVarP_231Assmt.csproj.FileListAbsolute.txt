@@ -1,0 +1,6 @@
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\bin\Debug\ConstVarP_231Assmt.exe.config
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\bin\Debug\ConstVarP_231Assmt.exe
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\bin\Debug\ConstVarP_231Assmt.pdb
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\obj\Debug\ConstVarP_231Assmt.csprojAssemblyReference.cache
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\obj\Debug\ConstVarP_231Assmt.exe
+C:\Users\trmcg\source\repos\ConstVarP_231Assmt\ConstVarP_231Assmt\obj\Debug\ConstVarP_231Assmt.pdb
